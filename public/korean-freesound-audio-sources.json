@@ -1,0 +1,41 @@
+[
+  {
+    "word": "오토바이",
+    "audio": "assets/audio/korea/motorcycle-original.mp3",
+    "audioUrl": "https://cdn.freesound.org/previews/160/160007_2558789-hq.mp3",
+    "source": "https://freesound.org/people/bmoreno/sounds/160007/",
+    "author": "bmoreno",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "label": "서울 중앙시장에서 녹음한 오토바이 경적",
+    "kind": "한국 현장 녹음",
+    "countryBasis": "원본 설명의 한국 녹음 장소 확인",
+    "changes": "공개 HQ 재생본 사용, 최대 6초 MP3 발췌"
+  },
+  {
+    "word": "경찰차",
+    "audio": "assets/audio/korea/police-car-original.mp3",
+    "audioUrl": "https://cdn.freesound.org/previews/164/164053_5726-hq.mp3",
+    "source": "https://freesound.org/people/sazman/sounds/164053/",
+    "author": "sazman",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "label": "서울 용산구에서 녹음한 경찰차 사이렌",
+    "kind": "한국 현장 녹음",
+    "countryBasis": "원본 설명의 한국 녹음 장소 확인",
+    "changes": "공개 HQ 재생본 사용, 최대 6초 MP3 발췌"
+  },
+  {
+    "word": "지하철",
+    "audio": "assets/audio/korea/subway-original.mp3",
+    "audioUrl": "https://cdn.freesound.org/previews/14/14745_5805-hq.mp3",
+    "source": "https://freesound.org/people/833-45/sounds/14745/",
+    "author": "833-45",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "label": "평촌역에서 녹음한 지하철 도착 소리",
+    "kind": "한국 현장 녹음",
+    "countryBasis": "원본 설명의 한국 녹음 장소 확인",
+    "changes": "공개 HQ 재생본 사용, 최대 6초 MP3 발췌"
+  }
+]

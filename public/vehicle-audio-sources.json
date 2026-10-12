@@ -1,0 +1,122 @@
+[
+  {
+    "word": "자동차",
+    "audio": "assets/audio/vehicles/car.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MAC3.OGG",
+    "source": "https://commons.wikimedia.org/wiki/File:MAC3.OGG",
+    "author": "Mustangworld",
+    "license": "CC BY-SA 3.0",
+    "label": "승용차 V8 엔진의 실제 녹음 예시",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "word": "택시",
+    "audio": "assets/audio/vehicles/car.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MAC3.OGG",
+    "source": "https://commons.wikimedia.org/wiki/File:MAC3.OGG",
+    "author": "Mustangworld",
+    "license": "CC BY-SA 3.0",
+    "label": "승용차 엔진의 실제 녹음 예시 · 자동차와 공통 음원",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "word": "버스",
+    "audio": "assets/audio/vehicles/diesel.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Deutz_260_F8L413F.Ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutz_260_F8L413F.Ogg",
+    "author": "Yacine612",
+    "license": "CC BY-SA 3.0",
+    "label": "SNVI B260 디젤 버스 엔진의 실제 녹음",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "word": "트럭",
+    "audio": "assets/audio/vehicles/diesel.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Deutz_260_F8L413F.Ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutz_260_F8L413F.Ogg",
+    "author": "Yacine612",
+    "license": "CC BY-SA 3.0",
+    "label": "디젤 엔진의 실제 녹음 예시 · 버스 녹음 사용",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "word": "오토바이",
+    "audio": "assets/audio/vehicles/motorbike.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Motorbike_1.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Motorbike_1.ogg",
+    "author": "ezwa",
+    "license": "Public domain",
+    "label": "오토바이가 지나가는 실제 소리",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Motorbike_1.ogg"
+  },
+  {
+    "word": "자전거",
+    "audio": "assets/audio/vehicles/bicycle.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ding_Dong_Bicycle_Bell_A.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ding_Dong_Bicycle_Bell_A.ogg",
+    "author": "TeWeBs",
+    "license": "CC BY-SA 4.0",
+    "label": "자전거 벨의 실제 녹음",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "word": "전차",
+    "audio": "assets/audio/vehicles/tram.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tram_doors_open_and_close_hiss_and_beeping.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tram_doors_open_and_close_hiss_and_beeping.ogg",
+    "author": "stephan",
+    "license": "Public domain",
+    "label": "독일 전차의 문과 경고음 실제 녹음",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tram_doors_open_and_close_hiss_and_beeping.ogg"
+  },
+  {
+    "word": "경찰차",
+    "audio": "assets/audio/vehicles/police.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/WWS_Policecarsiren.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:WWS_Policecarsiren.ogg",
+    "author": "Work With Sounds / Konrad Gutkowski",
+    "license": "CC BY 4.0",
+    "label": "독일 경찰차 사이렌의 실제 녹음 예시",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "word": "기차",
+    "audio": "assets/audio/vehicles/train.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Taurus_anfahrgeraeusch.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Taurus_anfahrgeraeusch.ogg",
+    "author": "Martin Meyerspeer",
+    "license": "CC BY-SA 3.0",
+    "label": "오스트리아 전기기관차가 출발하는 실제 소리",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "word": "지하철",
+    "audio": "assets/audio/vehicles/subway.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tokyo_Metropolitan_Government_Bureau_of_Transportation_5300_vvvf.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Metropolitan_Government_Bureau_of_Transportation_5300_vvvf.ogg",
+    "author": "Chihayasassas",
+    "license": "CC0 1.0",
+    "label": "도쿄 지하철 전동차가 가속하는 실제 소리",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "word": "구급차",
+    "audio": "assets/audio/vehicles/ambulance.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Het_aankomen_en_stoppen_van_een_ambulance_met_sirene_-_SoundCloud_-_Beeld_en_Geluid.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:Het_aankomen_en_stoppen_van_een_ambulance_met_sirene_-_SoundCloud_-_Beeld_en_Geluid.ogg",
+    "author": "Beeld en Geluid",
+    "license": "CC BY-SA 3.0",
+    "label": "네덜란드 구급차 사이렌의 실제 녹음 예시",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "word": "소방차",
+    "audio": "assets/audio/vehicles/firetruck.ogg",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/WWS_FiretruckFordF600-19588211sirens.ogg",
+    "source": "https://commons.wikimedia.org/wiki/File:WWS_FiretruckFordF600-19588211sirens.ogg",
+    "author": "Work With Sounds / Torsten Nilsson",
+    "license": "CC BY 4.0",
+    "label": "스웨덴 소방차 사이렌의 실제 녹음 예시",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  }
+]

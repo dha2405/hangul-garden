@@ -1,0 +1,31 @@
+버전: v2.3.4
+몽글몽글 한글 놀이터 소스 코드
+내보낸 날짜: 2026-10-12
+
+public/: 학습 화면, 선생님 화면, 사진·음원과 출처
+app/: 서버 API와 로그인 연동
+db/, drizzle/: 학생 기록 데이터베이스 구조
+package.json, package-lock.json: 패키지 설정
+check*.mjs: 기능 검사
+README.md: 개발 이력 (상단 일부 내용은 초기 버전 기준입니다.)
+
+학습 화면만 실행하기:
+Python 설치 후 이 폴더에서 다음 명령을 실행하세요.
+python -m http.server 8765 --directory public
+접속: http://localhost:8765/learning.html
+이 방식에서는 학생 참여·서버 기록 저장을 지원하지 않습니다.
+
+전체 프로젝트 개발하기:
+Node.js 22.13.0 이상 설치 후 다음 명령을 실행하세요.
+npm ci
+npm run dev
+접속: http://localhost:5173
+빌드: npm run build
+학생 기록 저장에는 Cloudflare D1 DB 바인딩과 마이그레이션 적용이 필요합니다.
+선생님 로그인은 Sites ChatGPT 인증 연동을 사용하므로 일반 로컬 서버에서 동일하게 동작하지 않습니다.
+낱말 듣기는 기기의 한국어 음성 지원에 따라 달라집니다.
+
+소스·사진·음원과 출처를 포함합니다.
+설치된 의존성, 임시 빌드, Git 이력, 실제 학생 기록 DB 및 브라우저 학생 세션은 포함하지 않습니다.
+.openai/hosting.json은 기존 홈페이지 배포 식별 설정입니다. 새 사이트에는 새 프로젝트 설정을 사용하세요.
+제3자 사진·음원 재사용 시 public 내 출처와 개별 라이선스를 확인하세요.

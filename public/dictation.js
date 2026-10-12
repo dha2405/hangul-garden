@@ -1,0 +1,21 @@
+'use strict';
+(()=>{
+ const el=id=>document.getElementById(id),canvas=el('dictCanvas'),pen=canvas.getContext('2d'),saved=new Map();
+ let type='write',key=null,round='',solved=false,drawing=false,last=null,epoch=0;
+ const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
+ function remember(){if(key&&canvas.width)saved.set(key,canvas.toDataURL());}
+ function resize(){if(mode!=='dictation'||type!=='write')return;remember();const r=canvas.getBoundingClientRect();if(!r.width)return;const image=saved.get(key),version=++epoch,dpr=window.devicePixelRatio||1;canvas.width=Math.round(r.width*dpr);canvas.height=Math.round(r.height*dpr);pen.setTransform(dpr,0,0,dpr,0,0);pen.clearRect(0,0,r.width,r.height);if(image){const img=new Image();img.onload=()=>{if(version===epoch)pen.drawImage(img,0,0,r.width,r.height);};img.src=image;}}
+ function choices(){showAnswerResult('dictResult',null);round=crypto.randomUUID();solved=false;el('dictFeedback').textContent='';el('dictChoices').replaceChildren();const w=words[index];let pool=words.filter(x=>x.group===w.group&&x.word!==w.word);if(pool.length<2)pool=words.filter(x=>x.word!==w.word);const options=shuffle([w,...shuffle([...pool]).slice(0,2)]);for(const item of options){const b=document.createElement('button');b.textContent=item.word;b.onclick=()=>{if(solved||mode!=='dictation'||type!=='choice')return;window.LearningProgress?.answer({word:w.word,mode:'dictation_choice',round,chosen:item.word});const correct=item.word===w.word;showAnswerResult('dictResult',correct);playFeedbackSound(correct);el('dictFeedback').textContent=correct?'잘했어요! '+w.word+'!':'사진을 보고 다시 골라볼까요?';if(correct){solved=true;b.classList.add('selected');[...el('dictChoices').children].forEach(x=>x.disabled=true);}};el('dictChoices').append(b);}}
+ function render(){el('dictManualCheck').hidden=true;showAnswerResult('dictWriteResult',null);el('dictAnswer').hidden=true;el('dictAnswer').textContent='';if(key!==words[index].word){remember();key=words[index].word;epoch++;canvas.width=0;el('dictAnswer').hidden=true;el('dictAnswer').textContent='';choices();}el('dictWritePanel').hidden=type!=='write';el('dictChoicePanel').hidden=type!=='choice';el('dictWrite').setAttribute('aria-pressed',type==='write');el('dictChoice').setAttribute('aria-pressed',type==='choice');window.LearningProgress?.setContext({word:words[index].word,mode:'dictation_'+type});if(type==='write')requestAnimationFrame(resize);}
+ function switchType(next){stopFeedbackSound();if(type==='write')remember();type=next;el('dictAnswer').hidden=true;el('dictAnswer').textContent='';if(type==='choice')choices();render();}
+ el('dictWrite').onclick=()=>switchType('write');el('dictChoice').onclick=()=>switchType('choice');
+ el('dictReveal').onclick=()=>{el('dictAnswer').textContent=words[index].word;el('dictAnswer').hidden=false;el('dictManualCheck').hidden=false;};
+ el('dictClear').onclick=()=>{saved.delete(key);epoch++;el('dictManualCheck').hidden=true;showAnswerResult('dictWriteResult',null);pen.clearRect(0,0,canvas.width,canvas.height);el('dictAnswer').hidden=true;el('dictAnswer').textContent='';};
+ el('dictMarkCorrect').onclick=()=>{showAnswerResult('dictWriteResult',true);playFeedbackSound(true);};el('dictMarkWrong').onclick=()=>{showAnswerResult('dictWriteResult',false);playFeedbackSound(false);};
+ el('dictRetry').onclick=()=>{stopFeedbackSound();choices();};
+ function point(e){const r=canvas.getBoundingClientRect();return {x:e.clientX-r.left,y:e.clientY-r.top};}
+ canvas.addEventListener('pointerdown',e=>{if(mode!=='dictation'||type!=='write')return;e.preventDefault();drawing=true;canvas.setPointerCapture(e.pointerId);last=point(e);pen.fillStyle='#42755d';pen.beginPath();pen.arc(last.x,last.y,2.5,0,Math.PI*2);pen.fill();});
+ canvas.addEventListener('pointermove',e=>{if(!drawing)return;const p=point(e);pen.strokeStyle='#42755d';pen.lineWidth=5;pen.lineCap='round';pen.lineJoin='round';pen.beginPath();pen.moveTo(last.x,last.y);pen.lineTo(p.x,p.y);pen.stroke();last=p;});
+ const finish=()=>{drawing=false;remember();};['pointerup','pointercancel','lostpointercapture'].forEach(e=>canvas.addEventListener(e,finish));
+ window.addEventListener('resize',resize);window.Dictation={render};
+})();

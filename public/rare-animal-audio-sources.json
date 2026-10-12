@@ -1,0 +1,62 @@
+[
+  {
+    "word": "토끼",
+    "audio": "assets/audio/animals/rabbit.mp3",
+    "source": "https://commons.wikimedia.org/wiki/File:Rabbit_oinks_and_squeaks.wav",
+    "author": "kessir",
+    "license": "CC0 1.0",
+    "label": "집토끼의 작은 울음소리",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/49/Rabbit_oinks_and_squeaks.wav/Rabbit_oinks_and_squeaks.wav.mp3"
+  },
+  {
+    "word": "기린",
+    "audio": "assets/audio/animals/giraffe.mp3",
+    "source": "https://commons.wikimedia.org/wiki/File:Giraffe_Hum.oga",
+    "author": "Anton Baotic, Florian Sicks, Angela S. Stoeger",
+    "license": "CC BY-SA 4.0",
+    "label": "기린의 낮은 허밍 소리",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a8/Giraffe_Hum.oga/Giraffe_Hum.oga.mp3"
+  },
+  {
+    "word": "거북이",
+    "audio": "assets/audio/animals/turtle.mp3",
+    "source": "https://commons.wikimedia.org/wiki/File:Dermochelys_coriacea_001.ogg",
+    "author": "Philippe Kurlapski",
+    "license": "CC BY 2.5",
+    "label": "장수거북이 숨 쉬는 소리",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Dermochelys_coriacea_001.ogg/Dermochelys_coriacea_001.ogg.mp3"
+  },
+  {
+    "word": "다람쥐",
+    "audio": "assets/audio/animals/squirrel.mp3",
+    "source": "https://commons.wikimedia.org/wiki/File:A_three-striped_palm_squirrel_(Funambulus_palmarum)_chirping_16January2015.oga",
+    "author": "Subhashish Panigrahi",
+    "license": "CC BY-SA 4.0",
+    "label": "인도야자다람쥐의 울음소리",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/A_three-striped_palm_squirrel_%28Funambulus_palmarum%29_chirping_16January2015.oga/A_three-striped_palm_squirrel_%28Funambulus_palmarum%29_chirping_16January2015.oga.mp3"
+  },
+  {
+    "word": "원숭이",
+    "audio": "assets/audio/animals/monkey.mp3",
+    "source": "https://commons.wikimedia.org/wiki/File:Sound-of-stump-tailed-macaque-(macaca-arctoides).ogg",
+    "author": "Rushenb",
+    "license": "CC BY-SA 4.0",
+    "label": "곰원숭이의 울음소리",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/Sound-of-stump-tailed-macaque-%28macaca-arctoides%29.ogg/Sound-of-stump-tailed-macaque-%28macaca-arctoides%29.ogg.mp3"
+  },
+  {
+    "word": "펭귄",
+    "audio": "assets/audio/animals/penguin.mp3",
+    "source": "https://commons.wikimedia.org/wiki/File:King_Penguin_Rookery_Audio.oga",
+    "author": "Hullwarren",
+    "license": "CC BY-SA 3.0",
+    "label": "왕펭귄 무리의 울음소리",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "audioUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/King_Penguin_Rookery_Audio.oga/King_Penguin_Rookery_Audio.oga.mp3"
+  }
+]

@@ -1,0 +1,345 @@
+{
+  "method": "Built-in image_gen tool",
+  "assets": [
+    {
+      "word": "고양이",
+      "file": "dist/assets/cat.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single friendly domestic orange tabby cat, full body sitting, ears, whiskers and curled tail clearly visible. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "강아지",
+      "file": "dist/assets/puppy.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single young golden retriever puppy, full body sitting with soft floppy ears, four natural legs and visible tail. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "토끼",
+      "file": "dist/assets/rabbit.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single white domestic rabbit, full body sitting, two long upright ears and small paws clearly visible. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "곰",
+      "file": "dist/assets/bear.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single brown bear, full body standing on all four paws, rounded ears, calm neutral expression. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "사자",
+      "file": "dist/assets/lion.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single adult male lion, full body standing with prominent natural brown mane and tail, mouth closed, calm. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "호랑이",
+      "file": "dist/assets/tiger.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single Bengal tiger, full body standing side three-quarter view, orange fur with clear black stripes and visible long tail, mouth closed, calm. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "코끼리",
+      "file": "dist/assets/elephant.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single African elephant, full body standing, large ears and long trunk hanging naturally, all four legs and tail visible, calm. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "기린",
+      "file": "dist/assets/giraffe.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single giraffe, full body standing, entire long neck, ossicones, ears, four legs and hooves visible, distinctive brown patch pattern. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "원숭이",
+      "file": "dist/assets/monkey.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single brown capuchin monkey, full body sitting with a visible long curved tail, natural hands and feet, mouth closed, calm. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "돼지",
+      "file": "dist/assets/pig.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single pink domestic pig, full body standing, round snout and curled tail clearly visible. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "소",
+      "file": "dist/assets/cow.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single black and white dairy cow, full body standing, hooves, ears and tail clearly visible. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "말",
+      "file": "dist/assets/horse.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single chestnut horse, full body standing, flowing mane and tail, all four hooves visible. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "양",
+      "file": "dist/assets/sheep.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single fluffy white sheep, full body standing, thick woolly fleece, dark hooves, short ears, no horns. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "염소",
+      "file": "dist/assets/goat.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single white domestic goat, full body standing, short smooth fur, slender curved horns and a small beard, clearly not woolly. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "닭",
+      "file": "dist/assets/chicken.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single adult brown domestic hen, full body standing, red comb, yellow legs, realistic feathers. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "오리",
+      "file": "dist/assets/duck.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single white domestic duck, full body standing, broad yellow bill and orange webbed feet clearly visible. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "병아리",
+      "file": "dist/assets/chick.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single fluffy yellow baby chicken chick, full body standing, small orange beak and two orange feet. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "펭귄",
+      "file": "dist/assets/penguin.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single adult emperor penguin, full body standing upright, black and white plumage, yellow orange neck patches, wings and feet visible. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "거북이",
+      "file": "dist/assets/turtle.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single small freshwater turtle, full body standing, domed patterned shell, head, four legs and short tail all visible. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "다람쥐",
+      "file": "dist/assets/squirrel.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: standalone animal vocabulary photo for Korean preschool learning. Subject: A single Korean Siberian chipmunk, full body sitting, clear brown and cream stripes along its back, small rounded ears, long furry tail visible. Style: photorealistic professional studio wildlife photograph, true realistic anatomy and texture. Full body entirely visible centered in square composition, generous margins, no cropped feet, ears or tail. Background: plain warm off-white seamless background with soft subtle ground shadow. Lighting: soft daylight. Friendly calm pose appropriate for young children. Exactly one animal. No extra props, foliage, habitat, people, text, logos, watermarks, cartoon features or anthropomorphic expressions."
+    },
+    {
+      "word": "딸기",
+      "file": "dist/assets/strawberry.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single ripe bright red strawberry with its green leafy cap, distinct small seeds visible. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "포도",
+      "file": "dist/assets/grapes.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A small naturally connected bunch of round dark purple grapes with a short green brown stem. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "수박",
+      "file": "dist/assets/watermelon.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: One round whole watermelon with dark and light green stripes, accompanied by one small cut wedge from the same fruit showing red flesh and black seeds. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "참외",
+      "file": "dist/assets/korean-melon.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single oval Korean yellow melon, bright yellow rind with clear white longitudinal stripes. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "복숭아",
+      "file": "dist/assets/peach.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single ripe pink peach with soft fuzzy skin, natural crease, and a small green leaf attached to its short stem. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "배",
+      "file": "dist/assets/pear.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single round Korean Asian pear, golden tan skin with tiny speckles and a short brown stem. The fruit is round, not a Western pear shape. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "귤",
+      "file": "dist/assets/mandarin.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single small ripe orange mandarin, slightly flattened round shape, textured thin orange peel and small green leaf. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "오렌지",
+      "file": "dist/assets/orange.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: One whole round orange with a small round orange half placed beside it to show its juicy segmented interior. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "레몬",
+      "file": "dist/assets/lemon.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single ripe bright yellow lemon with its characteristic oval form and pointed ends, textured skin. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "키위",
+      "file": "dist/assets/kiwi.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: One whole brown fuzzy kiwifruit with a small cut half beside it showing green flesh and a ring of tiny black seeds. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "파인애플",
+      "file": "dist/assets/pineapple.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole ripe pineapple, recognizable golden patterned rough skin and complete spiky green leafy crown. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "망고",
+      "file": "dist/assets/mango.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single ripe mango, asymmetrical oval shape, yellow orange skin with a subtle red blush. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "블루베리",
+      "file": "dist/assets/blueberries.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A small neat group of seven fresh blue blueberries, dusty blue skin and distinctive star-shaped calyx ends visible. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "체리",
+      "file": "dist/assets/cherry.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single ripe glossy red cherry with a long thin curved green stem. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "자두",
+      "file": "dist/assets/plum.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single ripe red purple plum, smooth slightly dusty skin, natural center seam and short stem. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "감",
+      "file": "dist/assets/persimmon.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single ripe round orange Korean persimmon with a broad flat green-brown calyx on its top. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "살구",
+      "file": "dist/assets/apricot.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single ripe small golden orange apricot, delicate fuzzy skin and natural seam, no leaf. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "멜론",
+      "file": "dist/assets/melon.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single round cantaloupe melon with distinct beige netted rind and a short stem, entire whole melon visible. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "석류",
+      "file": "dist/assets/pomegranate.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: One round red pomegranate with its natural crown, alongside a small opened half from the same fruit showing shiny ruby red seeds. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "무화과",
+      "file": "dist/assets/fig.png",
+      "category": "fruit",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: One ripe teardrop-shaped purple fig with a small cut half beside it showing pink seeded flesh. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "당근",
+      "file": "dist/assets/carrot.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single fresh orange carrot with a short natural green leafy top, tapered long root fully visible. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "오이",
+      "file": "dist/assets/cucumber.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole fresh green cucumber, long cylindrical shape, natural bumpy skin, both ends visible. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "토마토",
+      "file": "dist/assets/tomato.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single ripe round red tomato with a green star-shaped calyx. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "브로콜리",
+      "file": "dist/assets/broccoli.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: One fresh green broccoli head with tightly packed small florets and a thick short stalk. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "양배추",
+      "file": "dist/assets/cabbage.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single round green cabbage, pale green tightly wrapped layered leaves, compact spherical shape. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "배추",
+      "file": "dist/assets/napa-cabbage.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole elongated Korean napa cabbage, crinkled pale green leaf tips and thick white leaf ribs, upright oval shape, clearly not round cabbage. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "상추",
+      "file": "dist/assets/lettuce.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: Three loose fresh green Korean leaf lettuce leaves, gently ruffled edges and clear veins, arranged as a small natural bunch. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "시금치",
+      "file": "dist/assets/spinach.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A small fresh spinach bunch, smooth dark green pointed oval leaves and thin stems with slightly reddish root ends. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "무",
+      "file": "dist/assets/radish.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole Korean white radish, plump tapered white root with pale green shoulders and a short green leafy top. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "감자",
+      "file": "dist/assets/potato.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole raw potato with beige brown skin, round oval shape and shallow natural eyes, no sprouts. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "고구마",
+      "file": "dist/assets/sweet-potato.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole raw Korean sweet potato with reddish purple skin, elongated tapered shape, no sprouts. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "양파",
+      "file": "dist/assets/onion.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole golden brown onion with dry papery skin, short dried neck, and visible small dry root tuft. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "대파",
+      "file": "dist/assets/green-onion.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A small bunch of three large Korean green onions, long thick white bases and long dark green hollow leaves, small roots, full length visible. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "마늘",
+      "file": "dist/assets/garlic.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole garlic bulb with white papery skin, recognizable segmented clove shape and short dried stem. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "가지",
+      "file": "dist/assets/eggplant.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single slender long dark purple eggplant with a natural green calyx, smooth shiny skin. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "호박",
+      "file": "dist/assets/pumpkin.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single small ripe orange pumpkin with natural deep ribs and a short thick brown stem. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "애호박",
+      "file": "dist/assets/zucchini.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole Korean young zucchini, smooth light green skin, long cylindrical form with slightly rounded ends, clearly not an orange pumpkin. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "옥수수",
+      "file": "dist/assets/corn.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: One fresh ear of corn with partially peeled green husk, revealing rows of bright yellow kernels, whole ear and husk visible. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "피망",
+      "file": "dist/assets/green-pepper.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole green bell pepper with a thick short green stem, broad lobed form, glossy green skin. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    },
+    {
+      "word": "파프리카",
+      "file": "dist/assets/red-pepper.png",
+      "category": "vegetable",
+      "prompt": "Use case: product-mockup. Asset type: vocabulary photo for Korean preschool learning at developmental level 3–4. Subject: A single whole ripe red sweet bell pepper, broad blocky lobed form with a short green stem, glossy red skin. Style: photorealistic professional food product photograph with realistic natural texture and accurate recognizable shape. Composition: subject centered and entirely visible, generous margins, square frame. Background: plain warm off-white seamless backdrop, soft natural daylight and subtle ground shadow. Only the described fruit or vegetable, no other food, props, bowls, plates, hands, people, decorations, letters, logos or watermark. No cartoon styling. Maximize clear visual recognition."
+    }
+  ]
+}

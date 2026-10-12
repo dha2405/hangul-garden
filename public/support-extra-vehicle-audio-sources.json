@@ -1,0 +1,67 @@
+[
+  {
+    "word": "헬리콥터",
+    "audio": "assets/audio/vehicles/support-helicopter.mp3",
+    "source": "https://freesound.org/people/derjuli/sounds/467225/",
+    "author": "derjuli",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "label": "헬리콥터가 날아가는 실제 소리",
+    "duration": 29.79,
+    "audioUrl": "https://cdn.freesound.org/previews/467/467225_2573247-hq.mp3",
+    "changes": "Freesound 공개 고음질 MP3 재생본 사용; 최대 6초 재생",
+    "verified": "Zoom H1 현장 녹음"
+  },
+  {
+    "word": "비행기",
+    "audio": "assets/audio/vehicles/support-airplane.mp3",
+    "source": "https://freesound.org/people/oscaraudiogeek/sounds/431206/",
+    "author": "oscaraudiogeek",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "label": "비행기가 날아가는 실제 소리",
+    "duration": 15.845,
+    "audioUrl": "https://cdn.freesound.org/previews/431/431206_5117035-hq.mp3",
+    "changes": "Freesound 공개 고음질 MP3 재생본 사용; 최대 6초 재생",
+    "verified": "공항 근처에서 녹음; Ozone6/RX5 잡음 처리"
+  },
+  {
+    "word": "보트",
+    "audio": "assets/audio/vehicles/support-boat.mp3",
+    "source": "https://freesound.org/people/paulprit/sounds/593024/",
+    "author": "paulprit",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "label": "모터보트의 실제 엔진 소리",
+    "duration": 56.272,
+    "audioUrl": "https://cdn.freesound.org/previews/593/593024_8682843-hq.mp3",
+    "changes": "Freesound 공개 고음질 MP3 재생본 사용; 최대 6초 재생",
+    "verified": "바다에서 두 개의 250마력 Suzuki 기관을 녹음"
+  },
+  {
+    "word": "굴착기",
+    "audio": "assets/audio/vehicles/support-excavator.mp3",
+    "source": "https://freesound.org/people/peridactyloptrix/sounds/221921/",
+    "author": "peridactyloptrix",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "label": "굴착기가 작업하는 실제 소리",
+    "duration": 36.857,
+    "audioUrl": "https://cdn.freesound.org/previews/221/221921_2737063-hq.mp3",
+    "changes": "Freesound 공개 고음질 MP3 재생본 사용; 최대 6초 재생",
+    "verified": "Marantz PMD661와 Rode NTG-2 현장 녹음"
+  },
+  {
+    "word": "트랙터",
+    "audio": "assets/audio/vehicles/support-tractor.mp3",
+    "source": "https://freesound.org/people/lucasfuchs/sounds/518294/",
+    "author": "lucasfuchs",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "label": "트랙터의 실제 엔진 소리",
+    "duration": 43.706,
+    "audioUrl": "https://cdn.freesound.org/previews/518/518294_8270369-hq.mp3",
+    "changes": "Freesound 공개 고음질 MP3 재생본 사용; 최대 6초 재생",
+    "verified": "Fendt 트랙터 안에서 Zoom H4N으로 녹음"
+  }
+]
